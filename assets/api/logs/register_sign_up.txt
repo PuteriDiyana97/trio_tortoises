@@ -1,0 +1,1818 @@
+
+
+2020-06-04 12:33:04 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:01:01 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:02:26 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:05:28 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:08:56 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:09:59 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:10:42 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:10:43 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:10:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:11:14 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:11:16 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 15:11:16 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 16:34:08 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?otp=7010&contactno=01111113
+Array
+(
+    [otp] => 7010
+    [contactno] => 01111113
+)
+
+
+2020-06-04 16:42:03 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 16:43:28 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 17:12:28 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:13:53 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:14:48 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:16:50 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:22:59 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 17:23:06 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:23:25 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:23:27 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:23:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:23:46 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:23:47 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:24:04 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:24:18 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:24:30 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:26:08 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:36:34 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 00999222
+    [name] => Bob1
+    [email] => Bob@gmail.com
+    [icNumber] => 930210221122
+    [dob] => 2020-02-06
+    [address] => No 43,Jalan Suriamas
+    [country] => Malaysia
+    [state] => Johor
+    [zipcode] => 22111
+    [gender] => Male
+)
+
+
+2020-06-04 17:39:48 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 61111
+    [name] => Bob2
+    [email] => Bob2@jmail.kom
+    [icNumber] => 112233445566
+    [dob] => 2019-03-05
+    [address] => Mentari
+    [country] => Malaysia
+    [state] => Selangor
+    [zipcode] => 11122
+    [gender] => Male
+)
+
+
+2020-06-04 17:54:04 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 17:58:26 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:02:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:13:37 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:13:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:14:01 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:16:11 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:16:14 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:16:18 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:16:19 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:16:19 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:16:20 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:19:52 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:20:23 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:24:43 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:25:12 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:25:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:26:23 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-04 18:30:00 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-04 18:43:47 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 00999222
+    [name] => Diyana1
+    [email] => diyana@cloone.test
+    [icNumber] => 900405012244
+    [dob] => 1990-04-05
+    [address] => Kampung melayu lame
+    [country] => Malaysia
+    [state] => Johor
+    [zipcode] => 82330
+    [gender] => Female
+)
+
+
+2020-06-04 21:04:26 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=01111113&name=diyana&email=diyana@cloone.com.my&icNumber=123456&dob=19970829&gender=female&address=123%20asdfgh&country=Indonesia&state=Jakarta&zipcode=12345
+Array
+(
+    [contactno] => 01111113
+    [name] => diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456
+    [dob] => 19970829
+    [gender] => female
+    [address] => 123 asdfgh
+    [country] => Indonesia
+    [state] => Jakarta
+    [zipcode] => 12345
+)
+
+
+2020-06-12 16:15:16 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 9999999999
+    [name] => test1
+    [email] => test@gmail.com
+    [icNumber] => 11111
+    [dob] => 2020-06-12
+    [address] => testA
+    [country] => Malaysia
+    [city] => testC
+    [state] => Johor
+    [zipcode] => 2222
+    [gender] => Male
+)
+
+
+2020-06-12 16:21:30 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 7777777777
+    [name] => testbaru
+    [email] => testbaru@gmail.com
+    [icNumber] => 77777
+    [dob] => 2020-06-12
+    [address] => testbaruA
+    [country] => Malaysia
+    [city] => testbaruC
+    [state] => Wilayah Persekutuan
+    [zipcode] => 7777
+    [gender] => Male
+)
+
+
+2020-06-12 16:23:35 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 88888888
+    [name] => new
+    [email] => new@gmail.com
+    [icNumber] => 8888
+    [dob] => 2020-06-12
+    [address] => newA
+    [country] => Malaysia
+    [city] => newC
+    [state] => Selangor
+    [zipcode] => 8888
+    [gender] => Male
+)
+
+
+2020-06-12 17:59:01 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 5555555555
+    [name] => xkhdhd
+    [email] => hdjdjd@ufu.com
+    [icNumber] => 1348
+    [dob] => 2020-06-12
+    [address] => hduri
+    [country] => Malaysia
+    [city] => hcjdjf
+    [state] => KEDAH
+    [zipcode] => 888
+    [gender] => Male
+)
+
+
+2020-06-12 18:14:36 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 55555
+    [name] => 5TIMES
+    [email] => 5times@five.five
+    [icNumber] => 555555
+    [dob] => 2020-05-05
+    [address] => 555555 five
+    [country] => Malaysia
+    [city] => five
+    [state] => KELANTAN
+    [zipcode] => 55555
+    [gender] => Male
+)
+
+
+2020-06-12 18:24:13 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 2
+    [name] => 2
+    [email] => 2@2.22
+    [icNumber] => 2
+    [dob] => 2020-06-02
+    [address] => 2
+    [country] => Malaysia
+    [city] => 2
+    [state] => PERAK
+    [zipcode] => 2
+    [gender] => Male
+)
+
+
+2020-06-17 18:20:21 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0173404630
+    [name] => LOW CHUI LING
+    [email] => lowchuiling@cloone.com.my
+    [icNumber] => 911228145386
+    [dob] => 1991-12-28
+    [address] => No11 Jalan Udang Kapas
+    [country] => Malaysia
+    [city] => Kuala Lumpur
+    [state] => KUALA LUMPUR
+    [zipcode] => 52000
+    [gender] => Female
+)
+
+
+2020-06-18 11:42:39 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0196953091
+    [name] => Aiman
+    [email] => aiman@cloone.com.my
+    [icNumber] => 970916105169
+    [dob] => 1997-09-16
+    [address] => Bandar Mahkota Cheras
+    [country] => Malaysia
+    [city] => Cheras
+    [state] => SELANGOR
+    [zipcode] => 43200
+    [gender] => Male
+)
+
+
+2020-06-18 11:48:49 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0137511455
+    [name] => Puteri Diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 97082901
+    [dob] => 1997-08-29
+    [address] => Blok D, Jalan PJU 1A/5
+    [country] => Malaysia
+    [city] => Petaling Jaya
+    [state] => SELANGOR
+    [zipcode] => 47301
+    [gender] => Female
+)
+
+
+2020-06-18 17:30:37 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0196953091
+    [name] => Aiman
+    [email] => aiman@cloone.com.my
+    [icNumber] => 970916105169
+    [dob] => 1997-09-16
+    [address] => Bandar Mahkota Cheras
+    [country] => Malaysia
+    [city] => Cheras
+    [state] => SELANGOR
+    [zipcode] => 43200
+    [gender] => Male
+)
+
+
+2020-06-19 10:19:46 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0196953091
+    [name] => Aiman
+    [email] => Aiman@cloone.com.my
+    [icNumber] => 970916105169
+    [dob] => 1997-09-16
+    [address] => Bandar Mahkota Cheras
+    [country] => Malaysia
+    [city] => Cheras
+    [state] => SELANGOR
+    [zipcode] => 43200
+    [gender] => Male
+)
+
+
+2020-06-19 11:59:03 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0137511455
+    [name] => Diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 123456789
+    [dob] => 2020-06-19
+    [address] => oasis square
+    [country] => Malaysia
+    [city] => petaling jaya
+    [state] => SELANGOR
+    [zipcode] => 47301
+    [gender] => Female
+)
+
+
+2020-06-22 08:50:45 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 08:51:50 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 08:59:53 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:00:54 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:04:13 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:04:38 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:16:30 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 333333
+    [name] => 3TIMES
+    [email] => 3times@3.times
+    [icNumber] => 333333333333
+    [dob] => 2003-03-03
+    [address] => My 333 RTIEMESSS 
+    [country] => Malaysia
+    [city] => JOHOR
+    [zipcode] => 33333
+    [gender] => Male
+)
+
+
+2020-06-22 09:17:50 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 333333
+    [name] => 3TIMES
+    [email] => 3times@3.times
+    [icNumber] => 333333333333
+    [dob] => 2003-03-03
+    [address] => My 333 RTIEMESSS 
+    [country] => Malaysia
+    [city] => JOHOR
+    [zipcode] => 33333
+    [gender] => Male
+)
+
+
+2020-06-22 09:30:13 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:30:29 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:38:17 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:39:15 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:39:21 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:40:54 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:40:55 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:41:07 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:41:21 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:41:54 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 09:42:49 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 11:20:53 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-22 11:22:03 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-22 11:24:39 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-22 11:33:31 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 777777
+    [name] => My7TimesAcc 
+    [email] => 7times@ttt.times
+    [icNumber] => 77777
+    [dob] => 2020-06-04
+    [address] =>  777777 tttttttiiiimmmeesss
+    [country] => Singapore
+    [city] =>  Ttttttt7
+    [zipcode] => 77777 
+    [gender] => Male
+)
+
+
+2020-06-22 11:34:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 11:35:27 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 11:35:27 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 11:39:44 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 7777778
+    [name] => My7_8TimesAcc
+    [email] => 7times@ttt.times
+    [icNumber] => 7777778888
+    [dob] => 2020-06-06
+    [address] => 777777 tttttttiiiimmmees
+    [country] => Singapore
+    [city] => Ttttttt
+    [zipcode] => 7777
+    [gender] => Male
+)
+
+
+2020-06-22 11:42:01 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 7777778
+    [name] => My7_8TimesAcc
+    [email] => 7times@ttt.times
+    [icNumber] => 7777778888
+    [dob] => 2020-06-06
+    [address] => 777777 tttttttiiiimmmees
+    [country] => Singapore
+    [city] => Ttttttt
+    [zipcode] => 7777
+    [gender] => Male
+)
+
+
+2020-06-22 11:42:49 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 7777778
+    [name] => My7_8TimesAcc
+    [email] => 7times@ttt.times
+    [icNumber] => 7777778888
+    [dob] => 2020-06-06
+    [address] => 777777 tttttttiiiimmmees
+    [country] => Singapore
+    [city] => Ttttttt
+    [zipcode] => 7777
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:23 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:25 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:26 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:30 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:31 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:33 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:34 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:35 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:36 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:36 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:37 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:39 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:39 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:02:40 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:04:12 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 12:06:15 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 999999999
+    [name] => rest
+    [email] => rest@test.my
+    [icNumber] => 9999999999
+    [dob] => 1968-06-06
+    [address] => restung
+    [country] => Singapore
+    [city] => restingggzz
+    [zipcode] => 99999
+    [gender] => Male
+)
+
+
+2020-06-22 14:12:22 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0102211831
+    [name] => TEO CHIA ZHEN
+    [email] => teocz88@gmail.com
+    [icNumber] => 880830055253
+    [dob] => 1988-08-30
+    [address] => 155, JALAN S2 D6, CITY HOME, SEREMBAN 2
+    [country] => Malaysia
+    [city] => SEREMBAN
+    [zipcode] => 70300
+    [gender] => Male
+)
+
+
+2020-06-23 15:46:51 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 222222
+    [name] => 2TIMES6
+    [email] => 222222TWO@gmail.com
+    [icNumber] => 222222222222
+    [dob] => 2020-06-23
+    [address] => tryyyyy
+    [country] => Malaysia
+    [city] => tryyyyy
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-24 14:31:54 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 0136393581
+    [name] => SYAZRULRENGEKI
+    [email] => SYAZRUL@CLOONE.COM.MY
+    [icNumber] => 950304055393
+    [dob] => 1995-03-04
+    [race] => Malay
+    [state] => JOHOR
+    [address] => No 47 Jalan Cahaya 4, Taman Cahaya
+    [country] => Malaysia
+    [city] => Pontian
+    [zipcode] => 82000
+    [gender] => Male
+)
+
+
+2020-06-25 11:46:46 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60137511455
+    [name] => Diyana
+    [email] => diyana@cloone.com.my
+    [icNumber] => 970829
+    [dob] => 1997-08-29
+    [race] => Malay
+    [state] => SELANGOR
+    [address] => Blok D
+    [country] => MALAYSIA
+    [city] => Ara Damansara
+    [zipcode] => 47301
+    [gender] => Female
+)
+
+
+2020-06-25 17:09:23 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 6055555
+    [name] => eeee
+    [email] => eeee@ff.fff.ffff
+    [icNumber] => 123121212333
+    [dob] => 2020-02-27
+    [race] => Others
+    [state] => 
+    [address] => eeeeeeerr
+    [country] => AFGHANISTAN
+    [city] => eeeeeeee
+    [zipcode] => eedsasad99
+    [gender] => Male
+)
+
+
+2020-06-26 14:38:10 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603333333
+    [name] => hiuiuuuu
+    [email] => huuuu@gmail.com
+    [icNumber] => 33333333
+    [dob] => 2020-06-26
+    [race] => Others
+    [state] => PERAK
+    [address] => huiiii
+    [country] => MALAYSIA
+    [city] => huiui
+    [zipcode] => 3333
+    [gender] => Male
+)
+
+
+2020-06-26 17:59:35 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60173404630
+    [name] => LOW CHUI LING
+    [email] => lowchuiling@cloone.com.my
+    [icNumber] => 910626145386
+    [dob] => 1991-06-26
+    [race] => Chinese
+    [state] => KUALA LUMPUR
+    [address] => NO 11 JLN A
+    [country] => MALAYSIA
+    [city] => KL
+    [zipcode] => 52000
+    [gender] => Female
+)
+
+
+2020-06-29 10:03:21 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:07:57 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+)
+
+
+2020-06-29 10:09:18 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:12:09 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh@gmail.com&icNumber=131202021111&dob=10/10/2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:12:49 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:13:58 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:15:01 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:15:14 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:17:07 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php?contactno=6067280000&name=testing%20tarikh&email=tarikh%40gmail.com&icNumber=131202021111&dob=10%2F10%2F2010&race=Chinese&state=KEDAH&address=Test%20tarikhh%20punye%20address&country=MALAYSIA&city=tarikh%20City&zipcode=123123&gender=Male
+Array
+(
+    [contactno] => 6067280000
+    [name] => testing tarikh
+    [email] => tarikh@gmail.com
+    [icNumber] => 131202021111
+    [dob] => 10/10/2010
+    [race] => Chinese
+    [state] => KEDAH
+    [address] => Test tarikhh punye address
+    [country] => MALAYSIA
+    [city] => tarikh City
+    [zipcode] => 123123
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:20 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 2222
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:22 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 2222
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:26 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:33 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:39 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-29 10:23:46 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-29 10:24:02 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 603649785
+    [name] => gahsnbsb
+    [email] => gavva@gmail.com
+    [icNumber] => 6655677
+    [dob] => 2020-06-29
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => gsbsbbs
+    [country] => MALAYSIA
+    [city] => bsbbs
+    [zipcode] => 22222
+    [gender] => Male
+)
+
+
+2020-06-29 10:32:34 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60967280000
+    [name] => testing2Tarikh
+    [email] => dddd@dd.jj
+    [icNumber] => 94040321233
+    [dob] => Tu/06/2012
+    [race] => Chinese
+    [state] => PULAU PINANG
+    [address] => 3311222  jalan jalan cari makan
+    [country] => MALAYSIA
+    [city] => Tarikh 
+    [zipcode] => 132131241
+    [gender] => Male
+)
+
+
+2020-06-29 10:35:05 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60967280000
+    [name] => tttadasd
+    [email] => dsad@sdd.c
+    [icNumber] => 11111111
+    [dob] => 04/06/1994
+    [race] => Indian
+    [state] => KELANTAN
+    [address] => 11223212123Wweqw jalan
+    [country] => MALAYSIA
+    [city] => 11212312123
+    [zipcode] => 112123
+    [gender] => Male
+)
+
+
+2020-06-29 10:38:47 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60967280000
+    [name] => 121323123Tarikh
+    [email] => rrr@gmali.cc
+    [icNumber] => 11123123
+    [dob] => 2012-06-29T10:38:07.090+08:00
+    [race] => Others
+    [state] => 
+    [address] => wwwwwwww
+    [country] => ANDORRA
+    [city] => 11111
+    [zipcode] => 1111
+    [gender] => Male
+)
+
+
+2020-06-29 10:41:18 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60967280000
+    [name] => aasasddsasd
+    [email] => aaaaq11@asds.ss
+    [icNumber] => asdsadasdas
+    [dob] => 2012-11-08
+    [race] => Others
+    [state] => KELANTAN
+    [address] => asdasdasdasdasd
+    [country] => MALAYSIA
+    [city] => asdsdsdasdsdas
+    [zipcode] => asasdasdas
+    [gender] => Male
+)
+
+
+2020-06-30 17:04:50 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60189153341
+    [name] => Chan Sek Siong
+    [email] => chrischan@cloone.com.my
+    [icNumber] => 800429065321
+    [dob] => 1996-04-29
+    [race] => Chinese
+    [state] => PAHANG
+    [address] => testing
+    [country] => MALAYSIA
+    [city] => testing
+    [zipcode] => 43900
+    [gender] => Male
+)
+
+
+2020-07-02 14:24:18 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 6036986
+    [name] => diyana
+    [email] => diyana@cloone.my
+    [icNumber] => 970829
+    [dob] => 2012-12-09
+    [race] => Malay
+    [state] => SELANGOR
+    [address] => ara
+    [country] => MALAYSIA
+    [city] => petaling jay
+    [zipcode] => 74000
+    [gender] => Female
+)
+
+
+2020-07-02 14:54:25 - http://cloone.my//demo/starglory-admin/api/register_sign_up.php
+Array
+(
+    [contactno] => 60137511455
+    [name] => DIYANA
+    [email] => diyana@cloone.com.my
+    [icNumber] => 970829
+    [dob] => 2012-12-09
+    [race] => Malay
+    [state] => SELANGOR
+    [address] => Ara Damansara
+    [country] => MALAYSIA
+    [city] => Petaling Jay a
+    [zipcode] => 47301
+    [gender] => Female
+)

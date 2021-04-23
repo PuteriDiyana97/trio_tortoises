@@ -1,0 +1,2398 @@
+
+
+2020-06-06 15:24:10 - http://810speedmart.com//demo/starglory-admin/api/locate.php?
+Array
+(
+)
+
+
+2020-06-09 10:20:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-09 10:24:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-09 11:49:45 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-09 17:20:15 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 09:26:15 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 10:12:27 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 11:56:43 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 11:58:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 12:08:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 12:09:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:45:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:49:46 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:50:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:51:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:53:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:53:45 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:55:03 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:55:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 22:58:02 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 23:08:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 23:14:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 16:44:43 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 17:24:03 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-10 17:27:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 10:01:30 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 10:41:32 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 11:20:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 14:25:24 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 14:39:02 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 14:41:25 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 14:41:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 14:55:40 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 15:02:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 15:07:35 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => undefined
+    [long] => undefined
+)
+
+
+2020-06-11 15:11:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 
+    [long] => 
+)
+
+
+2020-06-11 15:12:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 
+    [long] => 
+)
+
+
+2020-06-11 15:13:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 15:15:12 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 15:15:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 15:20:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134576
+    [long] => 101.5751179
+)
+
+
+2020-06-11 15:23:07 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134624
+    [long] => 101.5751136
+)
+
+
+2020-06-11 15:24:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134676
+    [long] => 101.5750924
+)
+
+
+2020-06-11 15:25:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 15:27:33 - http://cloone.my/demo/starglory-admin/api/locate.php?long=101.585121&lat=3.056733
+Array
+(
+    [long] => 101.585121
+    [lat] => 3.056733
+)
+
+
+2020-06-11 15:32:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134604
+    [long] => 101.5751199
+)
+
+
+2020-06-11 15:33:45 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134639
+    [long] => 101.5751224
+)
+
+
+2020-06-11 15:34:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134614
+    [long] => 101.5751165
+)
+
+
+2020-06-11 15:35:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134666
+    [long] => 101.575118
+)
+
+
+2020-06-11 15:40:10 - http://cloone.my/demo/starglory-admin/api/locate.php?long=101.585121&lat=3.056733
+Array
+(
+    [long] => 101.585121
+    [lat] => 3.056733
+)
+
+
+2020-06-11 15:42:24 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 15:44:12 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134627
+    [long] => 101.5751105
+)
+
+
+2020-06-11 15:44:43 - http://cloone.my/demo/starglory-admin/api/locate.php?long=101.585121&lat=3.056733
+Array
+(
+    [long] => 101.585121
+    [lat] => 3.056733
+)
+
+
+2020-06-11 15:46:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113467
+    [long] => 101.5751249
+)
+
+
+2020-06-11 15:48:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113477
+    [long] => 101.5751146
+)
+
+
+2020-06-11 15:52:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 15:54:02 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:01:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134641
+    [long] => 101.5751219
+)
+
+
+2020-06-11 16:02:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134641
+    [long] => 101.5751219
+)
+
+
+2020-06-11 16:09:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113464
+    [long] => 101.5751208
+)
+
+
+2020-06-11 16:12:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134659
+    [long] => 101.5751216
+)
+
+
+2020-06-11 16:13:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134582
+    [long] => 101.5751202
+)
+
+
+2020-06-11 16:17:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134532
+    [long] => 101.5751197
+)
+
+
+2020-06-11 16:18:12 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134655
+    [long] => 101.575132
+)
+
+
+2020-06-11 16:18:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113462
+    [long] => 101.5751192
+)
+
+
+2020-06-11 16:20:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134694
+    [long] => 101.5751023
+)
+
+
+2020-06-11 16:32:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134682
+    [long] => 101.5751056
+)
+
+
+2020-06-11 16:33:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:34:03 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:35:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:40:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-11 16:42:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:42:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:44:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:45:27 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:47:12 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 16:49:21 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134641
+    [long] => 101.5751109
+)
+
+
+2020-06-11 17:05:27 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134621
+    [long] => 101.5751195
+)
+
+
+2020-06-11 17:06:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 17:06:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 17:08:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134622
+    [long] => 101.5751234
+)
+
+
+2020-06-11 17:15:38 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 17:20:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 17:29:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134661
+    [long] => 101.575116
+)
+
+
+2020-06-11 17:35:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134565
+    [long] => 101.5751113
+)
+
+
+2020-06-11 17:38:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134572
+    [long] => 101.5751151
+)
+
+
+2020-06-11 17:41:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134634
+    [long] => 101.5751185
+)
+
+
+2020-06-11 17:42:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134645
+    [long] => 101.5751137
+)
+
+
+2020-06-11 17:48:43 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-11 18:07:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113468
+    [long] => 101.5751084
+)
+
+
+2020-06-12 08:54:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-12 09:00:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-12 09:00:43 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134554
+    [long] => 101.5751111
+)
+
+
+2020-06-12 09:41:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 2.9523968
+    [long] => 101.58735360000001
+)
+
+
+2020-06-12 11:29:23 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.0838943
+    [long] => 101.5816646
+)
+
+
+2020-06-12 11:33:32 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.0838943
+    [long] => 101.5816646
+)
+
+
+2020-06-12 11:34:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.0838943
+    [long] => 101.5816646
+)
+
+
+2020-06-12 11:38:33 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134513
+    [long] => 101.5751193
+)
+
+
+2020-06-12 11:38:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134615
+    [long] => 101.5751169
+)
+
+
+2020-06-12 11:40:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134599
+    [long] => 101.5751151
+)
+
+
+2020-06-12 11:42:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134636
+    [long] => 101.5751216
+)
+
+
+2020-06-12 14:27:14 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134664
+    [long] => 101.5751225
+)
+
+
+2020-06-12 16:29:47 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134638
+    [long] => 101.5751204
+)
+
+
+2020-06-12 17:14:07 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134622
+    [long] => 101.5751162
+)
+
+
+2020-06-12 18:40:07 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134648
+    [long] => 101.575122
+)
+
+
+2020-06-15 09:14:38 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 10:32:56 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134678
+    [long] => 101.5751203
+)
+
+
+2020-06-16 12:01:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 12:02:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 15:58:32 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 15:59:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 16:09:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:04:45 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134598
+    [long] => 101.5751271
+)
+
+
+2020-06-16 17:08:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134636
+    [long] => 101.5751168
+)
+
+
+2020-06-16 17:11:40 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134613
+    [long] => 101.5751295
+)
+
+
+2020-06-16 17:24:59 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:25:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:26:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:27:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:27:35 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:27:46 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:30:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:30:38 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:31:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:31:54 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:33:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:33:50 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1404438000000003
+    [long] => 101.59525939999999
+)
+
+
+2020-06-16 17:36:04 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134572
+    [long] => 101.5751221
+)
+
+
+2020-06-17 16:41:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-17 18:22:23 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134632
+    [long] => 101.5751105
+)
+
+
+2020-06-17 18:39:40 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134487
+    [long] => 101.5751137
+)
+
+
+2020-06-17 18:57:50 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-17 18:57:59 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-17 18:58:24 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134773
+    [long] => 101.575104
+)
+
+
+2020-06-17 18:58:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 10:52:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 11:14:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 11:14:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 11:55:50 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.1134628
+    [long] => 101.5751121
+)
+
+
+2020-06-18 11:55:50 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 11:56:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 11:58:57 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:00:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:03:56 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:04:14 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:04:57 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:05:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 12:06:04 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 13:45:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 13:46:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 13:48:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 13:49:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 14:15:33 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 22:59:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:07:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:09:35 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:12:25 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:16:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:19:06 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [lat] => 3.113456
+    [long] => 101.5751299
+)
+
+
+2020-06-18 23:19:32 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:20:38 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:23:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:38:04 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:39:23 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:39:50 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 23:46:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134638
+    [long] => 101.5751353
+)
+
+
+2020-06-18 23:47:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134555
+    [long] => 101.5751099
+)
+
+
+2020-06-18 23:51:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134695
+    [long] => 101.5751138
+)
+
+
+2020-06-18 23:55:12 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:02:47 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:04:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134659
+    [long] => 101.5751183
+)
+
+
+2020-06-18 16:05:57 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:09:29 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134664
+    [long] => 101.5751224
+)
+
+
+2020-06-18 16:15:08 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:16:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134596
+    [long] => 101.575126
+)
+
+
+2020-06-18 16:18:33 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:20:30 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:22:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:23:46 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-18 16:31:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-19 09:47:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1135047
+    [long] => 101.5751562
+)
+
+
+2020-06-19 09:49:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1135168
+    [long] => 101.5751539
+)
+
+
+2020-06-19 09:58:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1135065
+    [long] => 101.57516
+)
+
+
+2020-06-19 10:37:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-19 11:13:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-19 16:43:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.131622
+    [long] => 101.5624304
+)
+
+
+2020-06-22 10:03:36 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 6333333
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-22 14:21:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134728
+    [long] => 101.5751545
+)
+
+
+2020-06-22 14:22:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134694
+    [long] => 101.5751563
+)
+
+
+2020-06-22 14:22:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134694
+    [long] => 101.5751563
+)
+
+
+2020-06-22 17:10:09 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134821
+    [long] => 101.5751375
+)
+
+
+2020-06-23 09:10:14 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 67777778
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 12:14:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134738
+    [long] => 101.5751612
+)
+
+
+2020-06-23 12:18:14 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 12:19:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134738
+    [long] => 101.5751612
+)
+
+
+2020-06-23 12:39:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134738
+    [long] => 101.5751612
+)
+
+
+2020-06-23 12:42:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1134881
+    [long] => 101.5751516
+)
+
+
+2020-06-23 14:19:17 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 14:30:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 14:37:15 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 601126130895
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 14:56:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 17:15:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 17:17:21 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 17:18:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-23 17:19:09 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-24 11:40:13 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60196953091
+    [lat] => 3.1134641
+    [long] => 101.575138
+)
+
+
+2020-06-24 11:40:59 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-24 11:41:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 655555
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-24 17:16:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134714
+    [long] => 101.5751547
+)
+
+
+2020-06-24 17:34:02 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134881
+    [long] => 101.5751242
+)
+
+
+2020-06-24 17:41:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134923
+    [long] => 101.5751393
+)
+
+
+2020-06-24 18:00:34 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134841
+    [long] => 101.5751313
+)
+
+
+2020-06-25 09:24:32 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 09:27:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 09:31:21 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 09:51:25 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:10:53 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:12:59 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:20:21 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:45:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:45:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:47:08 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 10:49:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:00:24 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:05:21 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:05:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:06:48 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:07:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:08:41 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:09:23 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:09:42 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 11:57:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134824
+    [long] => 101.5751321
+)
+
+
+2020-06-25 13:58:35 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134912
+    [long] => 101.5751545
+)
+
+
+2020-06-25 14:49:38 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 16:24:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-25 17:40:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134728
+    [long] => 101.5751306
+)
+
+
+2020-06-26 12:58:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134914
+    [long] => 101.575157
+)
+
+
+2020-06-26 13:37:15 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-26 14:25:35 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-26 14:25:37 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-26 14:36:36 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60137511455
+    [lat] => 3.1134835
+    [long] => 101.5751378
+)
+
+
+2020-06-26 15:29:07 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-26 17:01:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134943
+    [long] => 101.5751495
+)
+
+
+2020-06-26 17:01:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1134943
+    [long] => 101.5751495
+)
+
+
+2020-06-26 18:18:26 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-06-26 18:19:09 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-06-26 18:20:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-06-26 18:30:06 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-26 18:54:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-06-29 18:04:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60196953091
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-06-30 10:02:56 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.0928679
+    [long] => 101.588173
+)
+
+
+2020-06-30 14:26:28 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.0928679
+    [long] => 101.588173
+)
+
+
+2020-06-30 14:35:52 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.0928679
+    [long] => 101.588173
+)
+
+
+2020-06-30 14:36:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+)
+
+
+2020-06-30 16:52:58 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1135077
+    [long] => 101.5751481
+)
+
+
+2020-06-30 16:53:01 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60173404630
+    [lat] => 3.1135077
+    [long] => 101.5751481
+)
+
+
+2020-06-30 17:05:00 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-06-30 19:05:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60169273110
+    [lat] => 3.113501
+    [long] => 101.5751184
+)
+
+
+2020-06-30 19:05:30 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60169273110
+    [lat] => 3.1135029
+    [long] => 101.5751153
+)
+
+
+2020-06-30 19:05:30 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60169273110
+    [lat] => 3.1135029
+    [long] => 101.5751153
+)
+
+
+2020-06-30 19:05:30 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60169273110
+    [lat] => 3.1135029
+    [long] => 101.5751153
+)
+
+
+2020-07-01 10:11:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134875
+    [long] => 101.5751729
+)
+
+
+2020-07-01 11:55:05 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.0928679
+    [long] => 101.588173
+)
+
+
+2020-07-01 12:07:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-01 13:14:31 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134848
+    [long] => 101.5751641
+)
+
+
+2020-07-01 13:24:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.113498
+    [long] => 101.5751552
+)
+
+
+2020-07-01 14:42:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134785
+    [long] => 101.5751644
+)
+
+
+2020-07-01 14:46:17 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-01 14:53:22 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134818
+    [long] => 101.575168
+)
+
+
+2020-07-01 15:40:39 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.0928679
+    [long] => 101.588173
+)
+
+
+2020-07-02 09:30:20 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1135025
+    [long] => 101.5751582
+)
+
+
+2020-07-02 09:32:36 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1135107
+    [long] => 101.5751558
+)
+
+
+2020-07-02 09:38:16 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1135041
+    [long] => 101.5751489
+)
+
+
+2020-07-02 09:38:18 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1135041
+    [long] => 101.5751489
+)
+
+
+2020-07-02 09:40:47 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 09:42:19 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134914
+    [long] => 101.5751623
+)
+
+
+2020-07-02 09:42:37 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134914
+    [long] => 101.5751623
+)
+
+
+2020-07-02 10:01:13 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 10:02:02 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134969
+    [long] => 101.5751525
+)
+
+
+2020-07-02 10:05:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1135066
+    [long] => 101.5751608
+)
+
+
+2020-07-02 10:07:10 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 10:12:49 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-07-02 10:24:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 10:57:26 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-07-02 11:51:40 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134972
+    [long] => 101.5751507
+)
+
+
+2020-07-02 11:52:11 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)
+
+
+2020-07-02 11:52:51 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134977
+    [long] => 101.57517
+)
+
+
+2020-07-02 11:53:04 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134977
+    [long] => 101.57517
+)
+
+
+2020-07-02 11:53:44 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 11:55:15 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60189153341
+    [lat] => 3.1134916
+    [long] => 101.5751383
+)
+
+
+2020-07-02 14:23:36 - http://cloone.my/demo/starglory-admin/api/locate.php
+Array
+(
+    [contactno] => 60136393581
+    [lat] => 3.1035622999999997
+    [long] => 101.5816646
+)

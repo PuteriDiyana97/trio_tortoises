@@ -1,0 +1,64 @@
+
+
+2020-05-20 08:38:27 - https://810speedmart.com/qapi/voucher_redeem.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&voucher=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22code%22:%20%22IMDEKDGY%22,%0D%0A%20%20%20%20%22id%22:%20%22601161695982%22,%0D%0A%20%20%20%20%22value%22:%20%2210%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082447%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [voucher] => [
+  {
+    "code": "IMDEKDGY",
+    "id": "601161695982",
+    "value": "10",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082447"
+  }
+]
+)
+
+
+2020-05-20 08:53:01 - https://810speedmart.com/qapi/voucher_redeem.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&voucher=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22code%22:%20%22*YAZ11DVP*%22,%0D%0A%20%20%20%20%22id%22:%20%22601161501363%22,%0D%0A%20%20%20%20%22value%22:%20%225%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101939%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [voucher] => [
+  {
+    "code": "*YAZ11DVP*",
+    "id": "601161501363",
+    "value": "5",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101939"
+  }
+]
+)
+
+
+2020-05-20 08:53:01 - https://810speedmart.com/qapi/voucher_redeem.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&voucher=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22code%22:%20%22*MV8GBLUZ*%22,%0D%0A%20%20%20%20%22id%22:%20%22601161501363%22,%0D%0A%20%20%20%20%22value%22:%20%225%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101939%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [voucher] => [
+  {
+    "code": "*MV8GBLUZ*",
+    "id": "601161501363",
+    "value": "5",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101939"
+  }
+]
+)
+
+
+2020-05-20 09:01:04 - https://810speedmart.com/qapi/voucher_redeem.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&voucher=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22code%22:%20%22Y8037LHA%22,%0D%0A%20%20%20%20%22id%22:%20%2260176754216%22,%0D%0A%20%20%20%20%22value%22:%20%2210%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082456%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [voucher] => [
+  {
+    "code": "Y8037LHA",
+    "id": "60176754216",
+    "value": "10",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082456"
+  }
+]
+)

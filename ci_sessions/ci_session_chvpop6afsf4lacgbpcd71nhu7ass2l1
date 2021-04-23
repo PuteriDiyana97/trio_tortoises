@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1619046965;login_result|s:568:"<div class="alert alert-solid-info alert-bold fade show" role="alert">
+                        <div class="alert-icon"><i class="flaticon-warning"></i></div>
+                        <div class="alert-text">Please Login!</div>
+                        <div class="alert-close">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true"><i class="la la-close"></i></span>
+                            </button>
+                        </div>
+                    </div>";__ci_vars|a:1:{s:12:"login_result";s:3:"new";}

@@ -1,0 +1,3173 @@
+
+
+2020-06-09 17:19:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:19:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:20:09 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:20:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:20:25 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:21:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:21:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:22:04 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:22:11 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+)
+
+
+2020-06-16 15:23:11 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?voucher_id=1
+Array
+(
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:50:11 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:50:24 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-16 16:50:52 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:51:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:51:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:52:40 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:53:04 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:53:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:53:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:56:06 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:56:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:56:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:56:34 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:56:35 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:57:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:58:00 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:58:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 16:58:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:16 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:02:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:04:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:04:39 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:05:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:06:16 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:11:05 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:11:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:11:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:11:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:11:52 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:12:02 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:13:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:13:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:13:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:14:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:15:23 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:15:42 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:18:47 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:18:54 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:18:56 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:18:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:18:58 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:19:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:20:00 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:20:00 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:23:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:35 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:36 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:38 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:24:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:25:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:25:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:26:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:26:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:26:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-16 17:26:46 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:11:25 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:11:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:11:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:12:08 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:16:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60127313401&voucher_id=1
+Array
+(
+    [contactno] => 60127313401
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:55:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:55:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60127313401&voucher_id=1
+Array
+(
+    [contactno] => 60127313401
+    [voucher_id] => 1
+)
+
+
+2020-06-17 10:59:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60122211121&voucher_id=1
+Array
+(
+    [contactno] => 60122211121
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:11:54 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:12:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=6555555&voucher_id=1
+Array
+(
+    [contactno] => 6555555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:13:14 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=6555555&voucher_id=1
+Array
+(
+    [contactno] => 6555555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:13:23 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895%09&voucher_id=1
+Array
+(
+    [contactno] => 601126130895	
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:13:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:13:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:13:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:14:52 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:16:01 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=6555555&voucher_id=1
+Array
+(
+    [contactno] => 6555555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:16:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:17:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:17:39 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=62&voucher_id=1
+Array
+(
+    [contactno] => 62
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:18:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:18:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:19:09 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60127313401&voucher_id=1
+Array
+(
+    [contactno] => 60127313401
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:19:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 11:22:16 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=62&voucher_id=1
+Array
+(
+    [contactno] => 62
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:25:00 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:26:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:27:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:27:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:27:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:09 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:28:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:29:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:30:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:30:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:30:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:30:34 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:31:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:31:23 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:32:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:33:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:33:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:36:02 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:48:40 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => undefined
+    [voucher_customer_id] => undefined
+)
+
+
+2020-06-17 15:49:56 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 15:58:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 8
+)
+
+
+2020-06-17 15:59:02 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 8
+)
+
+
+2020-06-17 15:59:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 8
+)
+
+
+2020-06-17 16:02:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 16:03:38 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 16:05:05 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 16:05:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 16:06:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-17 16:09:35 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 2
+)
+
+
+2020-06-17 16:11:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 2
+)
+
+
+2020-06-17 16:15:59 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 1
+)
+
+
+2020-06-17 16:33:25 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 1
+    [voucher_id] => 1
+    [voucher_code] => SKSKSKSK010101
+)
+
+
+2020-06-17 16:35:09 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 2
+    [voucher_id] => 2
+    [voucher_code] => *T8IJP0CD*
+)
+
+
+2020-06-17 16:39:15 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 12
+    [voucher_id] => 2
+    [voucher_code] => *T8IJP0CD*
+)
+
+
+2020-06-17 16:42:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 7
+)
+
+
+2020-06-17 16:43:53 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 13
+    [voucher_id] => 7
+    [voucher_code] => *8VNTAV8W*
+)
+
+
+2020-06-17 17:33:05 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 62
+    [voucher_id] => 1
+)
+
+
+2020-06-17 17:33:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 62
+    [voucher_id] => 1
+)
+
+
+2020-06-17 17:40:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 7
+)
+
+
+2020-06-17 17:41:30 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 16
+    [voucher_id] => 7
+    [voucher_code] => *QNVPRJQ4*
+)
+
+
+2020-06-17 17:41:37 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 16
+    [voucher_id] => 7
+    [voucher_code] => *QNVPRJQ4*
+)
+
+
+2020-06-17 17:41:52 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 16
+    [voucher_id] => 7
+    [voucher_code] => *QNVPRJQ4*
+)
+
+
+2020-06-17 17:42:39 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 16
+    [voucher_id] => 7
+    [voucher_code] => *QNVPRJQ4*
+)
+
+
+2020-06-17 17:43:25 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 3
+    [voucher_id] => 2
+    [voucher_code] => LOLOLOLOL696969
+)
+
+
+2020-06-17 17:44:12 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 3
+    [voucher_id] => 2
+    [voucher_code] => LOLOLOLOL696969
+)
+
+
+2020-06-17 17:45:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 17:46:17 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 3
+    [voucher_id] => 2
+    [voucher_code] => LOLOLOLOL696969
+)
+
+
+2020-06-17 17:47:41 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=1
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-17 17:49:04 - http://cloone.my/demo/starglory-admin/api/voucher_use.php?contactno=655555&voucher_id=1&voucher_customer_id=18&voucher_code=%2ASD55OERS%2A
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+    [voucher_customer_id] => 18
+    [voucher_code] => *SD55OERS*
+)
+
+
+2020-06-17 18:42:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-17 19:30:34 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 2
+)
+
+
+2020-06-17 19:31:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-17 19:32:20 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_customer_id] => 19
+    [voucher_id] => 2
+    [voucher_code] => *LNCFFLL0*
+)
+
+
+2020-06-17 19:32:54 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_customer_id] => 20
+    [voucher_id] => 1
+    [voucher_code] => *K15IZ00V*
+)
+
+
+2020-06-17 19:33:42 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 8
+)
+
+
+2020-06-17 19:34:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-17 19:36:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-17 19:37:11 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_customer_id] => 23
+    [voucher_id] => 1
+    [voucher_code] => *3OVHDYWN*
+)
+
+
+2020-06-18 10:59:55 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-18 11:01:56 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_customer_id] => 21
+    [voucher_id] => 8
+    [voucher_code] => *FHQXAZVI*
+)
+
+
+2020-06-18 11:04:40 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-18 11:07:05 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 8
+)
+
+
+2020-06-18 11:14:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-18 11:30:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-19 12:10:53 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 16
+    [voucher_id] => 7
+    [voucher_code] => *QNVPRJQ4*
+)
+
+
+2020-06-19 12:20:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 10
+)
+
+
+2020-06-19 12:21:03 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 29
+    [voucher_id] => 10
+    [voucher_code] => *U2EM8F30*
+)
+
+
+2020-06-19 12:21:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 8
+)
+
+
+2020-06-19 12:22:14 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_customer_id] => 30
+    [voucher_id] => 8
+    [voucher_code] => *WZJTEKWI*
+)
+
+
+2020-06-19 12:23:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 2
+)
+
+
+2020-06-22 12:09:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895
+Array
+(
+    [contactno] => 601126130895
+)
+
+
+2020-06-22 12:09:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=601126130895&voucher_id=1
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-22 12:10:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 8
+)
+
+
+2020-06-22 12:11:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 10
+)
+
+
+2020-06-22 12:46:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:47:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:47:38 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 11
+)
+
+
+2020-06-22 12:50:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:55:51 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:56:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:57:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:58:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 12:59:05 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:00:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:00:46 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:01:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:02:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:03:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:07:41 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:07:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:07:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:10:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:10:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:11:01 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:11:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:11:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:11:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:12:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:13:09 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:15:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:15:52 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:16:24 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:17:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60196953091&voucher_id=14
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 13:18:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 14
+)
+
+
+2020-06-22 14:33:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60102211831
+    [voucher_id] => 15
+)
+
+
+2020-06-22 14:34:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60102211831
+    [voucher_id] => 15
+)
+
+
+2020-06-22 14:34:16 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60102211831
+    [voucher_customer_id] => 38
+    [voucher_id] => 15
+    [voucher_code] => *FK3R4PSG*
+)
+
+
+2020-06-23 14:55:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 1
+)
+
+
+2020-06-23 15:11:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:11:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:13:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=14
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 14
+)
+
+
+2020-06-23 15:13:56 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=14
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 14
+)
+
+
+2020-06-23 15:14:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=14
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 14
+)
+
+
+2020-06-23 15:14:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:15:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:16:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:17:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:18:25 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:18:39 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:18:40 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:20:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:21:06 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:21:23 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:22:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:22:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:22:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:22:46 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:23:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:23:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:24:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:27:39 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:28:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:29:41 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:30:55 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:30:56 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:31:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:31:29 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:32:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:32:24 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:33:56 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:33:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:34:25 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:37:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:37:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:37:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:38:51 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:39:51 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:39:52 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:40:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:41:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:47:59 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 6222222
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:50:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:51:50 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:55:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:57:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 15:58:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=655555&voucher_id=15
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 16:03:11 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 16:29:49 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 39
+    [voucher_id] => 15
+    [voucher_code] => 626KKJS9
+)
+
+
+2020-06-23 16:30:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 8
+)
+
+
+2020-06-23 16:30:38 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 2
+)
+
+
+2020-06-23 16:31:10 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 41
+    [voucher_id] => 2
+    [voucher_code] => ICKBYTNZ
+)
+
+
+2020-06-23 16:33:17 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 18
+    [voucher_id] => 1
+    [voucher_code] => *SD55OERS*
+)
+
+
+2020-06-23 16:42:34 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 40
+    [voucher_id] => 8
+    [voucher_code] => 6CHR71YB
+)
+
+
+2020-06-23 16:43:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 15
+)
+
+
+2020-06-23 16:43:13 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 2
+)
+
+
+2020-06-23 16:43:22 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 42
+    [voucher_id] => 15
+    [voucher_code] => TWONAA8I
+)
+
+
+2020-06-23 16:44:19 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 43
+    [voucher_id] => 2
+    [voucher_code] => RIBKVLCH
+)
+
+
+2020-06-23 16:45:31 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 10
+)
+
+
+2020-06-23 16:45:42 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 44
+    [voucher_id] => 10
+    [voucher_code] => BMUH7JDF
+)
+
+
+2020-06-23 17:20:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 11
+)
+
+
+2020-06-23 17:20:15 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 45
+    [voucher_id] => 11
+    [voucher_code] => I4NLXLOU
+)
+
+
+2020-06-23 17:21:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 2
+)
+
+
+2020-06-23 17:22:13 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 46
+    [voucher_id] => 2
+    [voucher_code] => EIWBN4XE
+)
+
+
+2020-06-23 17:26:51 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 13
+)
+
+
+2020-06-23 17:26:58 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 2
+)
+
+
+2020-06-23 17:27:03 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 7
+)
+
+
+2020-06-23 17:27:07 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 655555
+    [voucher_id] => 8
+)
+
+
+2020-06-23 19:41:00 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 47
+    [voucher_id] => 2
+    [voucher_code] => 
+)
+
+
+2020-06-23 19:41:07 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 655555
+    [voucher_customer_id] => 48
+    [voucher_id] => 7
+    [voucher_code] => 
+)
+
+
+2020-06-24 14:15:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_id] => 1
+)
+
+
+2020-06-24 14:19:11 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60196953091
+    [voucher_customer_id] => 50
+    [voucher_id] => 1
+    [voucher_code] => ONVUIDWJ
+)
+
+
+2020-06-24 17:35:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-06-24 17:35:49 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 51
+    [voucher_id] => 1
+    [voucher_code] => 9X5DXK4F
+)
+
+
+2020-06-24 17:36:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-06-24 17:37:08 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 52
+    [voucher_id] => 1
+    [voucher_code] => GDSNBQCR
+)
+
+
+2020-06-25 12:13:46 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 7
+)
+
+
+2020-06-25 12:15:18 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 53
+    [voucher_id] => 7
+    [voucher_code] => KLO1TVSR
+)
+
+
+2020-06-25 12:16:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-25 12:16:37 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 54
+    [voucher_id] => 8
+    [voucher_code] => 6Z5O6TOR
+)
+
+
+2020-06-25 13:53:13 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 11
+)
+
+
+2020-06-25 13:53:22 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 55
+    [voucher_id] => 11
+    [voucher_code] => BIHT64CS
+)
+
+
+2020-06-25 13:53:59 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-25 13:54:07 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 56
+    [voucher_id] => 8
+    [voucher_code] => 4WR1568P
+)
+
+
+2020-06-25 16:39:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 15
+)
+
+
+2020-06-25 16:39:54 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 15
+)
+
+
+2020-06-25 16:41:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 15
+)
+
+
+2020-06-25 17:06:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 15
+)
+
+
+2020-06-25 17:18:32 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 6055555
+    [voucher_id] => 1
+)
+
+
+2020-06-25 17:19:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-06-25 17:21:08 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-06-25 17:21:35 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 6055555
+    [voucher_id] => 15
+)
+
+
+2020-06-26 11:46:00 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:46:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:46:22 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:46:30 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:51:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contact_no=60137511455&voucher_id=1
+Array
+(
+    [contact_no] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:52:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:53:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:55:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:55:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:55:51 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:56:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:56:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:57:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:57:59 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:58:16 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 11:59:20 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:00:15 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:01:04 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:02:01 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:02:27 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:02:38 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:02:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:03:26 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:03:40 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:04:58 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:06:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:08:17 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:10:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php?contactno=60137511455&voucher_id=1
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:20:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:47:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:47:54 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 601126130895
+    [voucher_id] => 1
+)
+
+
+2020-06-26 12:51:13 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 13:54:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-06-26 13:56:02 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-26 14:08:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 21
+)
+
+
+2020-06-26 14:09:05 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 79
+    [voucher_id] => 21
+    [voucher_code] => NF1RDANT
+)
+
+
+2020-06-26 14:34:01 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 14:34:37 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)
+
+
+2020-06-26 18:16:21 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 8
+)
+
+
+2020-06-26 18:43:23 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60169273110
+    [voucher_customer_id] => 83
+    [voucher_id] => 18
+    [voucher_code] => BRI44UT4
+)
+
+
+2020-06-26 20:04:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-29 14:45:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-06-29 14:45:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 2
+)
+
+
+2020-06-29 14:45:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-29 14:46:03 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-29 14:46:42 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-29 14:52:06 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 2
+)
+
+
+2020-06-29 14:52:10 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-06-29 14:52:14 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 2
+)
+
+
+2020-06-29 14:52:18 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-06-29 15:18:04 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-06-30 12:11:44 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60169273110
+    [voucher_id] => 8
+)
+
+
+2020-06-30 14:25:02 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 1
+)
+
+
+2020-06-30 14:25:11 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60173404630
+    [voucher_id] => 10
+)
+
+
+2020-06-30 17:41:13 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60189153341
+    [voucher_id] => 2
+)
+
+
+2020-07-01 09:21:47 - http://cloone.my/demo/starglory-admin/api/voucher_use.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_customer_id] => 94
+    [voucher_id] => 10
+    [voucher_code] => IOZV6G4R
+)
+
+
+2020-07-02 10:56:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60189153341
+    [voucher_id] => 1
+)
+
+
+2020-07-02 14:26:24 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-07-02 14:26:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 1
+)
+
+
+2020-07-02 14:26:33 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:26:43 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:26:49 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 2
+)
+
+
+2020-07-02 14:26:53 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-07-02 14:26:57 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:27:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 8
+)
+
+
+2020-07-02 14:27:45 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:27:48 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:27:55 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60136393581
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:49:12 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:49:19 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 10
+)
+
+
+2020-07-02 14:49:28 - http://cloone.my/demo/starglory-admin/api/voucher_claim.php
+Array
+(
+    [contactno] => 60137511455
+    [voucher_id] => 1
+)

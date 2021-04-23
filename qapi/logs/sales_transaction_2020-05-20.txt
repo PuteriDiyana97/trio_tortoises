@@ -1,0 +1,4140 @@
+
+
+2020-05-20 07:58:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108118%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108118",
+    "trxtotal": "16"
+  }
+]
+)
+
+
+2020-05-20 08:06:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601126495668%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108119%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601126495668",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108119",
+    "trxtotal": "3.65"
+  }
+]
+)
+
+
+2020-05-20 08:06:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026640%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2213.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026640",
+    "trxtotal": "13.9"
+  }
+]
+)
+
+
+2020-05-20 08:07:02 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108120%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108120",
+    "trxtotal": "2.6"
+  }
+]
+)
+
+
+2020-05-20 08:08:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082437%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.75%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082437",
+    "trxtotal": "6.75"
+  }
+]
+)
+
+
+2020-05-20 08:09:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082438%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082438",
+    "trxtotal": "0.2"
+  }
+]
+)
+
+
+2020-05-20 08:09:31 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082439%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.72%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082439",
+    "trxtotal": "4.72"
+  }
+]
+)
+
+
+2020-05-20 08:10:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108121%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2218.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108121",
+    "trxtotal": "18.7"
+  }
+]
+)
+
+
+2020-05-20 08:11:38 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026641%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026641",
+    "trxtotal": "11.4"
+  }
+]
+)
+
+
+2020-05-20 08:12:02 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108122%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2218.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108122",
+    "trxtotal": "18.7"
+  }
+]
+)
+
+
+2020-05-20 08:12:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108123%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108123",
+    "trxtotal": "5.9"
+  }
+]
+)
+
+
+2020-05-20 08:13:08 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082440%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.87%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082440",
+    "trxtotal": "5.87"
+  }
+]
+)
+
+
+2020-05-20 08:13:29 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601130556374%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026642%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.05%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601130556374",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026642",
+    "trxtotal": "3.05"
+  }
+]
+)
+
+
+2020-05-20 08:13:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082441%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.18%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082441",
+    "trxtotal": "5.18"
+  }
+]
+)
+
+
+2020-05-20 08:13:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260162200877%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108124%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60162200877",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108124",
+    "trxtotal": "1.65"
+  }
+]
+)
+
+
+2020-05-20 08:15:41 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260182516294%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082442%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.98%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60182516294",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082442",
+    "trxtotal": "9.98"
+  }
+]
+)
+
+
+2020-05-20 08:16:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260183801087%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108125%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60183801087",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108125",
+    "trxtotal": "5.2"
+  }
+]
+)
+
+
+2020-05-20 08:16:57 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026643%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026643",
+    "trxtotal": "9.2"
+  }
+]
+)
+
+
+2020-05-20 08:20:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108126%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108126",
+    "trxtotal": "2.7"
+  }
+]
+)
+
+
+2020-05-20 08:21:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126724171%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026644%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2225.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126724171",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026644",
+    "trxtotal": "25.9"
+  }
+]
+)
+
+
+2020-05-20 08:21:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260132667278%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082443%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2228.06%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60132667278",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082443",
+    "trxtotal": "28.06"
+  }
+]
+)
+
+
+2020-05-20 08:22:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082444%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082444",
+    "trxtotal": "11.8"
+  }
+]
+)
+
+
+2020-05-20 08:22:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108127%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2236.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108127",
+    "trxtotal": "36.7"
+  }
+]
+)
+
+
+2020-05-20 08:23:10 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108128%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108128",
+    "trxtotal": "24.9"
+  }
+]
+)
+
+
+2020-05-20 08:24:08 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108129%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108129",
+    "trxtotal": "24"
+  }
+]
+)
+
+
+2020-05-20 08:25:25 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123921737%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108130%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2265.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123921737",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108130",
+    "trxtotal": "65.6"
+  }
+]
+)
+
+
+2020-05-20 08:26:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260165690195%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108131%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60165690195",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108131",
+    "trxtotal": "3.6"
+  }
+]
+)
+
+
+2020-05-20 08:27:12 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108132%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108132",
+    "trxtotal": "17.3"
+  }
+]
+)
+
+
+2020-05-20 08:27:53 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082445%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2243.19%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082445",
+    "trxtotal": "43.19"
+  }
+]
+)
+
+
+2020-05-20 08:30:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126525294%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108133%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2248.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126525294",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108133",
+    "trxtotal": "48.2"
+  }
+]
+)
+
+
+2020-05-20 08:31:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260196295313%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108134%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2243.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60196295313",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108134",
+    "trxtotal": "43.4"
+  }
+]
+)
+
+
+2020-05-20 08:32:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108135%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108135",
+    "trxtotal": "3.65"
+  }
+]
+)
+
+
+2020-05-20 08:32:38 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026645%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026645",
+    "trxtotal": "3.7"
+  }
+]
+)
+
+
+2020-05-20 08:33:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026646%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026646",
+    "trxtotal": "4.9"
+  }
+]
+)
+
+
+2020-05-20 08:33:57 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108136%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108136",
+    "trxtotal": "0.9"
+  }
+]
+)
+
+
+2020-05-20 08:34:53 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123982815%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108137%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123982815",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108137",
+    "trxtotal": "9.1"
+  }
+]
+)
+
+
+2020-05-20 08:35:14 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108138%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108138",
+    "trxtotal": "6.7"
+  }
+]
+)
+
+
+2020-05-20 08:35:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260122297319%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108139%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60122297319",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108139",
+    "trxtotal": "3.65"
+  }
+]
+)
+
+
+2020-05-20 08:37:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&fees=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161695982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082446%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [fees] => [
+  {
+    "id": "601161695982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082446",
+    "trxtotal": "5"
+  }
+]
+)
+
+
+2020-05-20 08:37:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260125680779%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026647%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2266.96%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60125680779",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026647",
+    "trxtotal": "66.96"
+  }
+]
+)
+
+
+2020-05-20 08:37:28 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260129264333%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101930%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2225.07%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60129264333",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101930",
+    "trxtotal": "25.07"
+  }
+]
+)
+
+
+2020-05-20 08:38:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161695982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082447%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2221.18%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601161695982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082447",
+    "trxtotal": "21.18"
+  }
+]
+)
+
+
+2020-05-20 08:39:18 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026648%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2285%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026648",
+    "trxtotal": "85"
+  }
+]
+)
+
+
+2020-05-20 08:39:18 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108140%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108140",
+    "trxtotal": "2.9"
+  }
+]
+)
+
+
+2020-05-20 08:40:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026649%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026649",
+    "trxtotal": "4"
+  }
+]
+)
+
+
+2020-05-20 08:40:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026650%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026650",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 08:40:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260162200877%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101931%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2225.83%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60162200877",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101931",
+    "trxtotal": "25.83"
+  }
+]
+)
+
+
+2020-05-20 08:40:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026651%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026651",
+    "trxtotal": "7.2"
+  }
+]
+)
+
+
+2020-05-20 08:40:57 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101932%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.47%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101932",
+    "trxtotal": "5.47"
+  }
+]
+)
+
+
+2020-05-20 08:41:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161695982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082448%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2235.58%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601161695982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082448",
+    "trxtotal": "35.58"
+  }
+]
+)
+
+
+2020-05-20 08:41:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260129832418%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101933%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60129832418",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101933",
+    "trxtotal": "5.3"
+  }
+]
+)
+
+
+2020-05-20 08:43:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161501363%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108141%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601161501363",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108141",
+    "trxtotal": "4.3"
+  }
+]
+)
+
+
+2020-05-20 08:43:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260193214132%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026652%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%22131.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60193214132",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026652",
+    "trxtotal": "131.7"
+  }
+]
+)
+
+
+2020-05-20 08:43:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108142%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108142",
+    "trxtotal": "2.9"
+  }
+]
+)
+
+
+2020-05-20 08:44:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123980922%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082449%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123980922",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082449",
+    "trxtotal": "9.2"
+  }
+]
+)
+
+
+2020-05-20 08:44:31 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260182837450%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026653%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60182837450",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026653",
+    "trxtotal": "16.4"
+  }
+]
+)
+
+
+2020-05-20 08:44:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260129832418%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108143%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2223.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60129832418",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108143",
+    "trxtotal": "23.7"
+  }
+]
+)
+
+
+2020-05-20 08:45:02 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108144%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108144",
+    "trxtotal": "1.7"
+  }
+]
+)
+
+
+2020-05-20 08:45:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260122297319%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101934%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2212.03%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60122297319",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101934",
+    "trxtotal": "12.03"
+  }
+]
+)
+
+
+2020-05-20 08:45:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082450%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2218.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082450",
+    "trxtotal": "18.1"
+  }
+]
+)
+
+
+2020-05-20 08:46:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108145%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2223.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108145",
+    "trxtotal": "23.9"
+  }
+]
+)
+
+
+2020-05-20 08:47:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T2-0000059854%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2213.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T2-0000059854",
+    "trxtotal": "13.95"
+  }
+]
+)
+
+
+2020-05-20 08:47:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101935%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.92%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101935",
+    "trxtotal": "16.92"
+  }
+]
+)
+
+
+2020-05-20 08:47:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260172327903%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108146%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60172327903",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108146",
+    "trxtotal": "10.3"
+  }
+]
+)
+
+
+2020-05-20 08:47:55 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101936%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.58%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101936",
+    "trxtotal": "16.58"
+  }
+]
+)
+
+
+2020-05-20 08:49:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T2-0000059855%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T2-0000059855",
+    "trxtotal": "1"
+  }
+]
+)
+
+
+2020-05-20 08:49:21 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026654%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026654",
+    "trxtotal": "9.9"
+  }
+]
+)
+
+
+2020-05-20 08:49:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101937%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.67%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101937",
+    "trxtotal": "8.67"
+  }
+]
+)
+
+
+2020-05-20 08:49:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026655%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026655",
+    "trxtotal": "5"
+  }
+]
+)
+
+
+2020-05-20 08:50:10 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108147%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108147",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 08:50:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108148%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108148",
+    "trxtotal": "2.6"
+  }
+]
+)
+
+
+2020-05-20 08:50:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101938%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.56%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101938",
+    "trxtotal": "17.56"
+  }
+]
+)
+
+
+2020-05-20 08:51:10 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082451%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2219.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082451",
+    "trxtotal": "19.7"
+  }
+]
+)
+
+
+2020-05-20 08:52:11 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108149%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2266.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108149",
+    "trxtotal": "66.5"
+  }
+]
+)
+
+
+2020-05-20 08:52:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108150%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108150",
+    "trxtotal": "16.9"
+  }
+]
+)
+
+
+2020-05-20 08:53:01 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161501363%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101939%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.84%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601161501363",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101939",
+    "trxtotal": "11.84"
+  }
+]
+)
+
+
+2020-05-20 08:53:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108151%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.85%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108151",
+    "trxtotal": "11.85"
+  }
+]
+)
+
+
+2020-05-20 08:53:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101940%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.35%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101940",
+    "trxtotal": "11.35"
+  }
+]
+)
+
+
+2020-05-20 08:53:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082452%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082452",
+    "trxtotal": "8.4"
+  }
+]
+)
+
+
+2020-05-20 08:54:21 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026656%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026656",
+    "trxtotal": "0.5"
+  }
+]
+)
+
+
+2020-05-20 08:54:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082453%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082453",
+    "trxtotal": "6"
+  }
+]
+)
+
+
+2020-05-20 08:54:43 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026657%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026657",
+    "trxtotal": "4"
+  }
+]
+)
+
+
+2020-05-20 08:55:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108152%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2239.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108152",
+    "trxtotal": "39.6"
+  }
+]
+)
+
+
+2020-05-20 08:55:54 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101941%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2262.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101941",
+    "trxtotal": "62.95"
+  }
+]
+)
+
+
+2020-05-20 08:55:57 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108153%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108153",
+    "trxtotal": "11.5"
+  }
+]
+)
+
+
+2020-05-20 08:56:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260168911357%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082454%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.71%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60168911357",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082454",
+    "trxtotal": "15.71"
+  }
+]
+)
+
+
+2020-05-20 08:57:13 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101942%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2220.17%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101942",
+    "trxtotal": "20.17"
+  }
+]
+)
+
+
+2020-05-20 08:57:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101943%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101943",
+    "trxtotal": "8"
+  }
+]
+)
+
+
+2020-05-20 08:57:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260192729982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108154%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60192729982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108154",
+    "trxtotal": "6.8"
+  }
+]
+)
+
+
+2020-05-20 08:58:12 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101944%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.57%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101944",
+    "trxtotal": "6.57"
+  }
+]
+)
+
+
+2020-05-20 08:58:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260178814170%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108155%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60178814170",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108155",
+    "trxtotal": "4.9"
+  }
+]
+)
+
+
+2020-05-20 08:58:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101945%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101945",
+    "trxtotal": "7.5"
+  }
+]
+)
+
+
+2020-05-20 08:59:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026658%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%22115.36%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026658",
+    "trxtotal": "115.36"
+  }
+]
+)
+
+
+2020-05-20 08:59:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108156%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108156",
+    "trxtotal": "1.6"
+  }
+]
+)
+
+
+2020-05-20 08:59:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101946%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.75%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101946",
+    "trxtotal": "15.75"
+  }
+]
+)
+
+
+2020-05-20 08:59:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&fees=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260176754216%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082455%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [fees] => [
+  {
+    "id": "60176754216",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082455",
+    "trxtotal": "5"
+  }
+]
+)
+
+
+2020-05-20 08:59:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026659%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026659",
+    "trxtotal": "3"
+  }
+]
+)
+
+
+2020-05-20 09:00:19 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108157%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108157",
+    "trxtotal": "2.5"
+  }
+]
+)
+
+
+2020-05-20 09:00:25 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026660%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026660",
+    "trxtotal": "5.8"
+  }
+]
+)
+
+
+2020-05-20 09:01:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260176754216%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082456%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2236.72%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60176754216",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082456",
+    "trxtotal": "36.72"
+  }
+]
+)
+
+
+2020-05-20 09:01:19 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101947%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2242.88%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101947",
+    "trxtotal": "42.88"
+  }
+]
+)
+
+
+2020-05-20 09:02:31 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101948%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101948",
+    "trxtotal": "4.4"
+  }
+]
+)
+
+
+2020-05-20 09:02:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026661%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026661",
+    "trxtotal": "9"
+  }
+]
+)
+
+
+2020-05-20 09:02:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101949%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101949",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 09:03:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026662%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026662",
+    "trxtotal": "5.2"
+  }
+]
+)
+
+
+2020-05-20 09:03:47 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026663%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2218.85%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026663",
+    "trxtotal": "18.85"
+  }
+]
+)
+
+
+2020-05-20 09:04:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260169016681%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082457%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2227.79%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60169016681",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082457",
+    "trxtotal": "27.79"
+  }
+]
+)
+
+
+2020-05-20 09:05:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026664%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026664",
+    "trxtotal": "1.6"
+  }
+]
+)
+
+
+2020-05-20 09:05:10 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082458%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082458",
+    "trxtotal": "3.9"
+  }
+]
+)
+
+
+2020-05-20 09:05:36 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260192729982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101950%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.93%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60192729982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101950",
+    "trxtotal": "5.93"
+  }
+]
+)
+
+
+2020-05-20 09:05:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108158%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108158",
+    "trxtotal": "16.1"
+  }
+]
+)
+
+
+2020-05-20 09:05:55 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260176754216%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082459%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60176754216",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082459",
+    "trxtotal": "8.4"
+  }
+]
+)
+
+
+2020-05-20 09:06:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101951%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.58%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101951",
+    "trxtotal": "10.58"
+  }
+]
+)
+
+
+2020-05-20 09:06:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108159%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108159",
+    "trxtotal": "4.95"
+  }
+]
+)
+
+
+2020-05-20 09:06:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260197886849%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T2-0000059856%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%22126.77%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60197886849",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T2-0000059856",
+    "trxtotal": "126.77"
+  }
+]
+)
+
+
+2020-05-20 09:06:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108160%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108160",
+    "trxtotal": "2.3"
+  }
+]
+)
+
+
+2020-05-20 09:07:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108161%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108161",
+    "trxtotal": "11.9"
+  }
+]
+)
+
+
+2020-05-20 09:07:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260122207446%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108162%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60122207446",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108162",
+    "trxtotal": "4.8"
+  }
+]
+)
+
+
+2020-05-20 09:08:07 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108163%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108163",
+    "trxtotal": "1"
+  }
+]
+)
+
+
+2020-05-20 09:08:45 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260169173881%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108164%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60169173881",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108164",
+    "trxtotal": "2.8"
+  }
+]
+)
+
+
+2020-05-20 09:09:29 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126109818%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082460%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.63%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126109818",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082460",
+    "trxtotal": "17.63"
+  }
+]
+)
+
+
+2020-05-20 09:09:50 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026665%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2229.75%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026665",
+    "trxtotal": "29.75"
+  }
+]
+)
+
+
+2020-05-20 09:10:32 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126109818%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082461%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2221.07%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126109818",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082461",
+    "trxtotal": "21.07"
+  }
+]
+)
+
+
+2020-05-20 09:10:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082462%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082462",
+    "trxtotal": "7.8"
+  }
+]
+)
+
+
+2020-05-20 09:11:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260124403186%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101952%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2226.57%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60124403186",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101952",
+    "trxtotal": "26.57"
+  }
+]
+)
+
+
+2020-05-20 09:11:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108165%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108165",
+    "trxtotal": "24.9"
+  }
+]
+)
+
+
+2020-05-20 09:11:31 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101953%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101953",
+    "trxtotal": "1"
+  }
+]
+)
+
+
+2020-05-20 09:12:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082463%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224.88%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082463",
+    "trxtotal": "24.88"
+  }
+]
+)
+
+
+2020-05-20 09:12:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101954%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2282.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101954",
+    "trxtotal": "82.5"
+  }
+]
+)
+
+
+2020-05-20 09:13:23 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082464%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.33%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082464",
+    "trxtotal": "15.33"
+  }
+]
+)
+
+
+2020-05-20 09:13:41 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260178821742%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101955%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.73%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60178821742",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101955",
+    "trxtotal": "7.73"
+  }
+]
+)
+
+
+2020-05-20 09:13:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082465%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082465",
+    "trxtotal": "2.8"
+  }
+]
+)
+
+
+2020-05-20 09:14:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026666%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026666",
+    "trxtotal": "1"
+  }
+]
+)
+
+
+2020-05-20 09:14:38 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101956%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2219.89%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101956",
+    "trxtotal": "19.89"
+  }
+]
+)
+
+
+2020-05-20 09:14:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260166762223%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082466%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2231.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60166762223",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082466",
+    "trxtotal": "31.2"
+  }
+]
+)
+
+
+2020-05-20 09:14:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108166%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2219.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108166",
+    "trxtotal": "19.5"
+  }
+]
+)
+
+
+2020-05-20 09:15:08 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260172664731%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101957%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.19%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60172664731",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101957",
+    "trxtotal": "9.19"
+  }
+]
+)
+
+
+2020-05-20 09:15:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123982140%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026667%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123982140",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026667",
+    "trxtotal": "10.7"
+  }
+]
+)
+
+
+2020-05-20 09:15:45 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101958%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101958",
+    "trxtotal": "5.8"
+  }
+]
+)
+
+
+2020-05-20 09:16:19 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101959%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.69%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101959",
+    "trxtotal": "3.69"
+  }
+]
+)
+
+
+2020-05-20 09:16:45 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260166678248%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101960%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.75%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60166678248",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101960",
+    "trxtotal": "9.75"
+  }
+]
+)
+
+
+2020-05-20 09:16:56 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260122203531%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082467%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2252.41%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60122203531",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082467",
+    "trxtotal": "52.41"
+  }
+]
+)
+
+
+2020-05-20 09:17:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601111108488%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101961%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2231.25%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601111108488",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101961",
+    "trxtotal": "31.25"
+  }
+]
+)
+
+
+2020-05-20 09:18:33 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082468%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2226.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082468",
+    "trxtotal": "26.8"
+  }
+]
+)
+
+
+2020-05-20 09:18:57 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026668%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026668",
+    "trxtotal": "1.8"
+  }
+]
+)
+
+
+2020-05-20 09:19:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082469%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.04%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082469",
+    "trxtotal": "9.04"
+  }
+]
+)
+
+
+2020-05-20 09:19:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260166678248%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108167%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60166678248",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108167",
+    "trxtotal": "4.7"
+  }
+]
+)
+
+
+2020-05-20 09:20:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601127297590%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082470%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2218.55%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601127297590",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082470",
+    "trxtotal": "18.55"
+  }
+]
+)
+
+
+2020-05-20 09:20:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026669%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2212%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026669",
+    "trxtotal": "12"
+  }
+]
+)
+
+
+2020-05-20 09:20:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108168%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2227.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108168",
+    "trxtotal": "27.4"
+  }
+]
+)
+
+
+2020-05-20 09:20:58 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082471%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082471",
+    "trxtotal": "0.2"
+  }
+]
+)
+
+
+2020-05-20 09:21:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082472%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082472",
+    "trxtotal": "3.95"
+  }
+]
+)
+
+
+2020-05-20 09:21:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108169%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108169",
+    "trxtotal": "0.9"
+  }
+]
+)
+
+
+2020-05-20 09:22:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260172432098%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101962%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%22130.02%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60172432098",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101962",
+    "trxtotal": "130.02"
+  }
+]
+)
+
+
+2020-05-20 09:23:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601115381077%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108170%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2240.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601115381077",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108170",
+    "trxtotal": "40.1"
+  }
+]
+)
+
+
+2020-05-20 09:23:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601111108488%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108171%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601111108488",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108171",
+    "trxtotal": "15.8"
+  }
+]
+)
+
+
+2020-05-20 09:24:14 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260194142605%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082473%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2294.45%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60194142605",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082473",
+    "trxtotal": "94.45"
+  }
+]
+)
+
+
+2020-05-20 09:24:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108172%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108172",
+    "trxtotal": "2.6"
+  }
+]
+)
+
+
+2020-05-20 09:24:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601126295617%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101963%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.26%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601126295617",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101963",
+    "trxtotal": "3.26"
+  }
+]
+)
+
+
+2020-05-20 09:24:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082474%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082474",
+    "trxtotal": "6.2"
+  }
+]
+)
+
+
+2020-05-20 09:25:45 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260172432098%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108173%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60172432098",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108173",
+    "trxtotal": "3.65"
+  }
+]
+)
+
+
+2020-05-20 09:27:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123743463%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108174%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2293.15%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123743463",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108174",
+    "trxtotal": "93.15"
+  }
+]
+)
+
+
+2020-05-20 09:27:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101964%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.14%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101964",
+    "trxtotal": "8.14"
+  }
+]
+)
+
+
+2020-05-20 09:28:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108175%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108175",
+    "trxtotal": "11.6"
+  }
+]
+)
+
+
+2020-05-20 09:29:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026670%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026670",
+    "trxtotal": "10.5"
+  }
+]
+)
+
+
+2020-05-20 09:30:10 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026671%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026671",
+    "trxtotal": "4.3"
+  }
+]
+)
+
+
+2020-05-20 09:30:12 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101965%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2244.51%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101965",
+    "trxtotal": "44.51"
+  }
+]
+)
+
+
+2020-05-20 09:30:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101966%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.36%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101966",
+    "trxtotal": "3.36"
+  }
+]
+)
+
+
+2020-05-20 09:30:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026672%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026672",
+    "trxtotal": "1"
+  }
+]
+)
+
+
+2020-05-20 09:31:07 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260182562602%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101967%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60182562602",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101967",
+    "trxtotal": "4.95"
+  }
+]
+)
+
+
+2020-05-20 09:32:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108176%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108176",
+    "trxtotal": "6.8"
+  }
+]
+)
+
+
+2020-05-20 09:32:28 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126844576%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101968%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2236.92%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126844576",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101968",
+    "trxtotal": "36.92"
+  }
+]
+)
+
+
+2020-05-20 09:33:08 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601115381077%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108177%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601115381077",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108177",
+    "trxtotal": "4.9"
+  }
+]
+)
+
+
+2020-05-20 09:33:50 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101969%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2258.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101969",
+    "trxtotal": "58.6"
+  }
+]
+)
+
+
+2020-05-20 09:34:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026673%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026673",
+    "trxtotal": "24.9"
+  }
+]
+)
+
+
+2020-05-20 09:34:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101970%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101970",
+    "trxtotal": "3.9"
+  }
+]
+)
+
+
+2020-05-20 09:34:28 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260167105835%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082475%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2247.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60167105835",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082475",
+    "trxtotal": "47.9"
+  }
+]
+)
+
+
+2020-05-20 09:34:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101971%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101971",
+    "trxtotal": "1.95"
+  }
+]
+)
+
+
+2020-05-20 09:35:03 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082476%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2213.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082476",
+    "trxtotal": "13.5"
+  }
+]
+)
+
+
+2020-05-20 09:35:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260173429078%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108178%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2239.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60173429078",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108178",
+    "trxtotal": "39.5"
+  }
+]
+)
+
+
+2020-05-20 09:35:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082477%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082477",
+    "trxtotal": "3"
+  }
+]
+)
+
+
+2020-05-20 09:36:11 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260104023177%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082478%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60104023177",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082478",
+    "trxtotal": "17.1"
+  }
+]
+)
+
+
+2020-05-20 09:36:18 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108179%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108179",
+    "trxtotal": "5"
+  }
+]
+)
+
+
+2020-05-20 09:36:37 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082479%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2229.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082479",
+    "trxtotal": "29.9"
+  }
+]
+)
+
+
+2020-05-20 09:36:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108180%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108180",
+    "trxtotal": "2.5"
+  }
+]
+)
+
+
+2020-05-20 09:37:40 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108181%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%229.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108181",
+    "trxtotal": "9.6"
+  }
+]
+)
+
+
+2020-05-20 09:38:31 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101972%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.39%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101972",
+    "trxtotal": "4.39"
+  }
+]
+)
+
+
+2020-05-20 09:39:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108182%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2247.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108182",
+    "trxtotal": "47.3"
+  }
+]
+)
+
+
+2020-05-20 09:39:55 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601161695982%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082480%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.82%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601161695982",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082480",
+    "trxtotal": "11.82"
+  }
+]
+)
+
+
+2020-05-20 09:40:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126844576%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108183%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2271.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126844576",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108183",
+    "trxtotal": "71.9"
+  }
+]
+)
+
+
+2020-05-20 09:40:33 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108184%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108184",
+    "trxtotal": "4.8"
+  }
+]
+)
+
+
+2020-05-20 09:40:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082481%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082481",
+    "trxtotal": "3"
+  }
+]
+)
+
+
+2020-05-20 09:40:56 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108185%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108185",
+    "trxtotal": "5.2"
+  }
+]
+)
+
+
+2020-05-20 09:41:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108186%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108186",
+    "trxtotal": "8.1"
+  }
+]
+)
+
+
+2020-05-20 09:41:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260173751906%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101973%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.49%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60173751906",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101973",
+    "trxtotal": "17.49"
+  }
+]
+)
+
+
+2020-05-20 09:41:47 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260167105835%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082482%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60167105835",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082482",
+    "trxtotal": "7.5"
+  }
+]
+)
+
+
+2020-05-20 09:42:01 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082483%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082483",
+    "trxtotal": "8.95"
+  }
+]
+)
+
+
+2020-05-20 09:42:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101974%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2214.06%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101974",
+    "trxtotal": "14.06"
+  }
+]
+)
+
+
+2020-05-20 09:42:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108187%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108187",
+    "trxtotal": "17.95"
+  }
+]
+)
+
+
+2020-05-20 09:43:26 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260172124253%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082484%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60172124253",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082484",
+    "trxtotal": "6.5"
+  }
+]
+)
+
+
+2020-05-20 09:43:39 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260105669400%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101975%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.46%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60105669400",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101975",
+    "trxtotal": "16.46"
+  }
+]
+)
+
+
+2020-05-20 09:43:46 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260108813631%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108188%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2214.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60108813631",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108188",
+    "trxtotal": "14.4"
+  }
+]
+)
+
+
+2020-05-20 09:43:50 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260166009756%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082485%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60166009756",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082485",
+    "trxtotal": "6.5"
+  }
+]
+)
+
+
+2020-05-20 09:44:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101976%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2227.91%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101976",
+    "trxtotal": "27.91"
+  }
+]
+)
+
+
+2020-05-20 09:45:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601128396485%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108189%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601128396485",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108189",
+    "trxtotal": "1.8"
+  }
+]
+)
+
+
+2020-05-20 09:45:33 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101977%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.98%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101977",
+    "trxtotal": "7.98"
+  }
+]
+)
+
+
+2020-05-20 09:46:29 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082486%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082486",
+    "trxtotal": "3.65"
+  }
+]
+)
+
+
+2020-05-20 09:46:38 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101978%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.25%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101978",
+    "trxtotal": "16.25"
+  }
+]
+)
+
+
+2020-05-20 09:47:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260146270984%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082487%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60146270984",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082487",
+    "trxtotal": "4"
+  }
+]
+)
+
+
+2020-05-20 09:47:12 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101979%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101979",
+    "trxtotal": "5"
+  }
+]
+)
+
+
+2020-05-20 09:47:14 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260107052923%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026674%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2221.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60107052923",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026674",
+    "trxtotal": "21.9"
+  }
+]
+)
+
+
+2020-05-20 09:47:38 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108190%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%225.75%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108190",
+    "trxtotal": "5.75"
+  }
+]
+)
+
+
+2020-05-20 09:48:21 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260167105835%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082488%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.3%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60167105835",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082488",
+    "trxtotal": "7.3"
+  }
+]
+)
+
+
+2020-05-20 09:48:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101980%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101980",
+    "trxtotal": "15.8"
+  }
+]
+)
+
+
+2020-05-20 09:49:30 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108191%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2226.25%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108191",
+    "trxtotal": "26.25"
+  }
+]
+)
+
+
+2020-05-20 09:50:21 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108192%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2229.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108192",
+    "trxtotal": "29.9"
+  }
+]
+)
+
+
+2020-05-20 09:50:28 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260167105835%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082489%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60167105835",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082489",
+    "trxtotal": "7.9"
+  }
+]
+)
+
+
+2020-05-20 09:51:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260176992994%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108193%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60176992994",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108193",
+    "trxtotal": "8"
+  }
+]
+)
+
+
+2020-05-20 09:52:01 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260176992994%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108194%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60176992994",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108194",
+    "trxtotal": "6.9"
+  }
+]
+)
+
+
+2020-05-20 09:52:16 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260175319168%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082490%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2215.38%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60175319168",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082490",
+    "trxtotal": "15.38"
+  }
+]
+)
+
+
+2020-05-20 09:52:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108195%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108195",
+    "trxtotal": "6"
+  }
+]
+)
+
+
+2020-05-20 09:52:26 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101981%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%221.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101981",
+    "trxtotal": "1.9"
+  }
+]
+)
+
+
+2020-05-20 09:53:25 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026675%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026675",
+    "trxtotal": "4"
+  }
+]
+)
+
+
+2020-05-20 09:53:55 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082491%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2277.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082491",
+    "trxtotal": "77.5"
+  }
+]
+)
+
+
+2020-05-20 09:54:14 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026676%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2224.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026676",
+    "trxtotal": "24.2"
+  }
+]
+)
+
+
+2020-05-20 09:54:24 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108196%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.1%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108196",
+    "trxtotal": "17.1"
+  }
+]
+)
+
+
+2020-05-20 09:54:41 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126780130%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082492%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.01%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126780130",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082492",
+    "trxtotal": "8.01"
+  }
+]
+)
+
+
+2020-05-20 09:54:54 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082493%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082493",
+    "trxtotal": "4.9"
+  }
+]
+)
+
+
+2020-05-20 09:55:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082494%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2228.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082494",
+    "trxtotal": "28.8"
+  }
+]
+)
+
+
+2020-05-20 09:56:29 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108198%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2235.15%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108198",
+    "trxtotal": "35.15"
+  }
+]
+)
+
+
+2020-05-20 09:56:43 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082495%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2285.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082495",
+    "trxtotal": "85.9"
+  }
+]
+)
+
+
+2020-05-20 09:56:59 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108199%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108199",
+    "trxtotal": "2.5"
+  }
+]
+)
+
+
+2020-05-20 09:57:02 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126412831%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101982%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.97%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126412831",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101982",
+    "trxtotal": "10.97"
+  }
+]
+)
+
+
+2020-05-20 09:57:05 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082496%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082496",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 09:58:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101983%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101983",
+    "trxtotal": "4.9"
+  }
+]
+)
+
+
+2020-05-20 09:58:45 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260126844576%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T2-0000059857%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.68%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60126844576",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T2-0000059857",
+    "trxtotal": "3.68"
+  }
+]
+)
+
+
+2020-05-20 10:01:18 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082497%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082497",
+    "trxtotal": "4.2"
+  }
+]
+)
+
+
+2020-05-20 10:01:42 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026677%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.72%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026677",
+    "trxtotal": "11.72"
+  }
+]
+)
+
+
+2020-05-20 10:01:47 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260125286933%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101984%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.6%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60125286933",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101984",
+    "trxtotal": "10.6"
+  }
+]
+)
+
+
+2020-05-20 10:01:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22601111176155%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F002-T1-0000082498%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222.8%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "601111176155",
+    "trxdate": "05/20/2020",
+    "trxnum": "F002-T1-0000082498",
+    "trxtotal": "2.8"
+  }
+]
+)
+
+
+2020-05-20 10:01:48 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260182105167%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108200%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2246.15%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60182105167",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108200",
+    "trxtotal": "46.15"
+  }
+]
+)
+
+
+2020-05-20 10:02:15 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101985%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2212.86%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101985",
+    "trxtotal": "12.86"
+  }
+]
+)
+
+
+2020-05-20 10:02:54 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260163287397%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108201%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2228.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60163287397",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108201",
+    "trxtotal": "28.5"
+  }
+]
+)
+
+
+2020-05-20 10:03:19 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101986%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.58%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101986",
+    "trxtotal": "16.58"
+  }
+]
+)
+
+
+2020-05-20 10:03:35 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026678%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2233.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026678",
+    "trxtotal": "33.7"
+  }
+]
+)
+
+
+2020-05-20 10:03:43 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260107799683%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101987%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.49%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60107799683",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101987",
+    "trxtotal": "4.49"
+  }
+]
+)
+
+
+2020-05-20 10:03:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108202%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2219.55%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108202",
+    "trxtotal": "19.55"
+  }
+]
+)
+
+
+2020-05-20 10:04:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108203%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223.55%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108203",
+    "trxtotal": "3.55"
+  }
+]
+)
+
+
+2020-05-20 10:04:29 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101988%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2217.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101988",
+    "trxtotal": "17.5"
+  }
+]
+)
+
+
+2020-05-20 10:04:51 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108204%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108204",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 10:05:05 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101989%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%228.95%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101989",
+    "trxtotal": "8.95"
+  }
+]
+)
+
+
+2020-05-20 10:06:17 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101990%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2261.56%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101990",
+    "trxtotal": "61.56"
+  }
+]
+)
+
+
+2020-05-20 10:06:47 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101991%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.46%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101991",
+    "trxtotal": "6.46"
+  }
+]
+)
+
+
+2020-05-20 10:07:22 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101992%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210.73%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101992",
+    "trxtotal": "10.73"
+  }
+]
+)
+
+
+2020-05-20 10:07:26 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108205%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2226.7%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108205",
+    "trxtotal": "26.7"
+  }
+]
+)
+
+
+2020-05-20 10:08:27 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026679%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%226.9%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026679",
+    "trxtotal": "6.9"
+  }
+]
+)
+
+
+2020-05-20 10:09:56 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F004-T1-0000026680%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%222%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F004-T1-0000026680",
+    "trxtotal": "2"
+  }
+]
+)
+
+
+2020-05-20 10:11:06 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108206%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2213.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108206",
+    "trxtotal": "13.2"
+  }
+]
+)
+
+
+2020-05-20 10:12:28 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123617617%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101993%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2232.46%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123617617",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101993",
+    "trxtotal": "32.46"
+  }
+]
+)
+
+
+2020-05-20 10:12:49 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054849%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.65%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054849",
+    "trxtotal": "7.65"
+  }
+]
+)
+
+
+2020-05-20 10:13:56 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054850%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2236.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054850",
+    "trxtotal": "36.2"
+  }
+]
+)
+
+
+2020-05-20 10:14:09 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123617617%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101994%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2275.16%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123617617",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101994",
+    "trxtotal": "75.16"
+  }
+]
+)
+
+
+2020-05-20 10:14:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260162960796%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054851%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60162960796",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054851",
+    "trxtotal": "4.2"
+  }
+]
+)
+
+
+2020-05-20 10:15:00 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054852%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2212.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054852",
+    "trxtotal": "12.2"
+  }
+]
+)
+
+
+2020-05-20 10:15:04 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260182826920%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101995%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.18%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60182826920",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101995",
+    "trxtotal": "11.18"
+  }
+]
+)
+
+
+2020-05-20 10:15:55 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054853%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.85%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054853",
+    "trxtotal": "11.85"
+  }
+]
+)
+
+
+2020-05-20 10:16:14 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054854%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%223%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054854",
+    "trxtotal": "3"
+  }
+]
+)
+
+
+2020-05-20 10:16:58 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108207%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%220.2%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108207",
+    "trxtotal": "0.2"
+  }
+]
+)
+
+
+2020-05-20 10:18:12 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260162631338%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101996%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2221.33%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60162631338",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101996",
+    "trxtotal": "21.33"
+  }
+]
+)
+
+
+2020-05-20 10:18:26 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260102522353%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054855%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2264.5%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60102522353",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054855",
+    "trxtotal": "64.5"
+  }
+]
+)
+
+
+2020-05-20 10:18:58 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101997%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%224.61%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101997",
+    "trxtotal": "4.61"
+  }
+]
+)
+
+
+2020-05-20 10:19:07 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260123617617%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108208%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2211.45%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60123617617",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108208",
+    "trxtotal": "11.45"
+  }
+]
+)
+
+
+2020-05-20 10:19:20 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054856%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2214%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054856",
+    "trxtotal": "14"
+  }
+]
+)
+
+
+2020-05-20 10:19:44 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T2-0000054857%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2210%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T2-0000054857",
+    "trxtotal": "10"
+  }
+]
+)
+
+
+2020-05-20 10:19:50 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%22-%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F003-T1-0000101998%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%2216.53%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "-",
+    "trxdate": "05/20/2020",
+    "trxnum": "F003-T1-0000101998",
+    "trxtotal": "16.53"
+  }
+]
+)
+
+
+2020-05-20 10:19:58 - https://810speedmart.com/qapi/sales_transaction.php?apikey-access=api810:lTL0FraU!QzSTM2%5EXN&sales=[%0D%0A%20%20%7B%0D%0A%20%20%20%20%22id%22:%20%2260166678838%22,%0D%0A%20%20%20%20%22trxdate%22:%20%2205/20/2020%22,%0D%0A%20%20%20%20%22trxnum%22:%20%22F001-T1-0000108209%22,%0D%0A%20%20%20%20%22trxtotal%22:%20%227.4%22%0D%0A%20%20%7D%0D%0A]
+Array
+(
+    [apikey-access] => api810:lTL0FraU!QzSTM2^XN
+    [sales] => [
+  {
+    "id": "60166678838",
+    "trxdate": "05/20/2020",
+    "trxnum": "F001-T1-0000108209",
+    "trxtotal": "7.4"
+  }
+]
+)

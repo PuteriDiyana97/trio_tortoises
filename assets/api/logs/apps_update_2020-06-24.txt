@@ -1,0 +1,375 @@
+
+
+2020-06-24 09:54:50 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 09:56:26 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 09:57:18 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:08:39 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+)
+
+
+2020-06-24 10:10:08 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:10:31 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:18:03 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:21:16 - http://cloone.my/demo/starglory-admin/api/apps_update.php?contactno=601126130895&userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:23:59 - http://cloone.my/demo/starglory-admin/api/apps_update.php?contactno=601126130895&userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:24:31 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:24:49 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:25:15 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:25:24 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:25:40 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:25:52 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:26:13 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:26:59 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:28:04 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:30:09 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:30:21 - http://cloone.my/demo/starglory-admin/api/apps_update.php?userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1&contactno=601126130895
+Array
+(
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+    [contactno] => 601126130895
+)
+
+
+2020-06-24 10:32:30 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:33:50 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:53:19 - http://cloone.my/demo/starglory-admin/api/apps_update.php?contactno=601126130895&userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=0.0.1
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 0.0.1
+)
+
+
+2020-06-24 10:56:41 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 10:57:34 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 11:29:03 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => null
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 11:29:55 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60196953091
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 14:03:31 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60196953091
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 14:05:59 - http://cloone.my/demo/starglory-admin/api/apps_update.php?contactno=601126130895&userid=555df5b6-df94-48ea-8db5-1c7f91909160&regid=cyutesxTZtQ%3AAPA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6&uuid=00000000-0000-0000-5c81-ae50e6ccdca7&version=1.0.1
+Array
+(
+    [contactno] => 601126130895
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.1
+)
+
+
+2020-06-24 14:14:17 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => null
+    [userid] => 5fe14c6e-8731-4924-ba8e-4e591404cb6a
+    [regid] => e3huirIv7j0:APA91bF5DU-Z5c0BV9wYsdjSwBdquX43aDmh5diIyR0eph1C3V3EFFNvqwyYSDmKyO8jDNZ6_-maClK5J6wRvuT-yIm-kOYYvH4Fdwrs0QO3kC8Av357r7eju4Hc42uXoNOiDdiy8ZAz
+    [uuid] => 95a634df-2105-0d39-8684-900371317158
+    [version] => 1.0.2
+)
+
+
+2020-06-24 14:21:38 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60196953091
+    [userid] => 5fe14c6e-8731-4924-ba8e-4e591404cb6a
+    [regid] => e3huirIv7j0:APA91bF5DU-Z5c0BV9wYsdjSwBdquX43aDmh5diIyR0eph1C3V3EFFNvqwyYSDmKyO8jDNZ6_-maClK5J6wRvuT-yIm-kOYYvH4Fdwrs0QO3kC8Av357r7eju4Hc42uXoNOiDdiy8ZAz
+    [uuid] => 95a634df-2105-0d39-8684-900371317158
+    [version] => 1.0.2
+)
+
+
+2020-06-24 16:18:47 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60136393581
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 16:58:32 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60136393581
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 17:14:22 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60136393581
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-24 17:23:48 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60136393581
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)

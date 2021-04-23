@@ -1,0 +1,110 @@
+
+
+2020-06-30 10:39:56 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60196953091
+    [userid] => cfc0594a-b854-4ab4-89ff-e326c7b99bb6
+    [regid] => dszk63l1A0A:APA91bEljQEI1TMu4R0Y5bBxegW_HVp3xskd-gAt_xRJaIBqimSBygi7eYiOQws7qI88cvtupV2NFZ8wd6jth5j1elzjUrnBjJSmLHDPjCslUrROWOWhbSHoE4JDdNlDWbh4IfAiZI4f
+    [uuid] => 02cf978b-99dc-0a0f-3867-486045539999
+    [version] => 1.0.2
+)
+
+
+2020-06-30 11:02:54 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => null
+    [userid] => a357d187-a663-47eb-aff8-835947de4a55
+    [regid] => dm8UEzukFj0:APA91bFXI_8PgunF6RFTJ-dpi5Q9bWoNSCIYMccdSA0hpWq8Uqi-RJTTFNWw3wEYcVFyHRuShkQosLhW7WL0EmIP6c-7vW4rfC2tRlCS1EiApWijOp-CxrQPOZoKkCYXOWTU4zuJJxAi
+    [uuid] => 00000000-0000-0000-6e89-42fd16483fc0
+    [version] => 1.0.2
+)
+
+
+2020-06-30 16:01:49 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60173404630
+    [userid] => cfc0594a-b854-4ab4-89ff-e326c7b99bb6
+    [regid] => dszk63l1A0A:APA91bEljQEI1TMu4R0Y5bBxegW_HVp3xskd-gAt_xRJaIBqimSBygi7eYiOQws7qI88cvtupV2NFZ8wd6jth5j1elzjUrnBjJSmLHDPjCslUrROWOWhbSHoE4JDdNlDWbh4IfAiZI4f
+    [uuid] => 02cf978b-99dc-0a0f-3867-486045539999
+    [version] => 1.0.2
+)
+
+
+2020-06-30 17:33:45 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => null
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-30 17:34:22 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60196953091
+    [userid] => cfc0594a-b854-4ab4-89ff-e326c7b99bb6
+    [regid] => dszk63l1A0A:APA91bEljQEI1TMu4R0Y5bBxegW_HVp3xskd-gAt_xRJaIBqimSBygi7eYiOQws7qI88cvtupV2NFZ8wd6jth5j1elzjUrnBjJSmLHDPjCslUrROWOWhbSHoE4JDdNlDWbh4IfAiZI4f
+    [uuid] => 02cf978b-99dc-0a0f-3867-486045539999
+    [version] => 1.0.2
+)
+
+
+2020-06-30 17:35:16 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => null
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-30 17:37:15 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60189153341
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-30 17:39:19 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60189153341
+    [userid] => 555df5b6-df94-48ea-8db5-1c7f91909160
+    [regid] => cyutesxTZtQ:APA91bGt6NmxtxmXzyW8Q-QDhdIWSwdhGlNgWIASEmAcaBC0Ns4gVmlNqfkmaLro0SyMg9OO1DpaQL55UgCNH1rm5AkzJF_vJ-TS-pxr1E_dJLQMhKHyqN4xQxAUY2Ki0gtIPPTtNba6
+    [uuid] => 00000000-0000-0000-5c81-ae50e6ccdca7
+    [version] => 1.0.2
+)
+
+
+2020-06-30 18:10:28 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60136393581
+    [userid] => 1a7a8b3f-9002-4c72-8f77-669639081805
+    [regid] => fyS04uo2Dbw:APA91bEwiYSztgzWlwXRZnyqH_XRC0FROpy4TGyYc33J11F7rEvzTVv_icORSJBNkxz3-BO_iIszQ9hg8Q2wGONHTN4a6lQS7guREsHofvq0oiCexDnyrdQQZp6sl8sKGEAciyFsNuvG
+    [uuid] => 0cbc0f60-1e72-836f-e866-907037027876
+    [version] => 1.0.2
+)
+
+
+2020-06-30 19:04:59 - http://cloone.my/demo/starglory-admin/api/apps_update.php
+Array
+(
+    [contactno] => 60169273110
+    [userid] => a357d187-a663-47eb-aff8-835947de4a55
+    [regid] => dm8UEzukFj0:APA91bFXI_8PgunF6RFTJ-dpi5Q9bWoNSCIYMccdSA0hpWq8Uqi-RJTTFNWw3wEYcVFyHRuShkQosLhW7WL0EmIP6c-7vW4rfC2tRlCS1EiApWijOp-CxrQPOZoKkCYXOWTU4zuJJxAi
+    [uuid] => 00000000-0000-0000-6e89-42fd16483fc0
+    [version] => 1.0.2
+)
